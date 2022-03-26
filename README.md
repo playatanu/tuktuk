@@ -10,6 +10,7 @@ Cab App.
 ## Tech Stack
 
 **Client:** React Native
+**Server:** Express
 
   
 ## Feedback
