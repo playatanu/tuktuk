@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "1036083422906",
+    "project_id": "alpha-2f312",
+    "storage_bucket": "alpha-2f312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036083422906:android:0268b0da86ce1b7fdf8483",
+        "android_client_info": {
+          "package_name": "com.playatanu.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036083422906-jia7466ggbu937afsmu6s95kh8grtfcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCowkT3Rpxjl7CEzzw7lloI4xQjHWjVAIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036083422906-jia7466ggbu937afsmu6s95kh8grtfcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036083422906:android:185039a806543c8bdf8483",
+        "android_client_info": {
+          "package_name": "com.playatanu.mood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036083422906-jia7466ggbu937afsmu6s95kh8grtfcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCowkT3Rpxjl7CEzzw7lloI4xQjHWjVAIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036083422906-jia7466ggbu937afsmu6s95kh8grtfcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036083422906:android:5a7f162f02df69a8df8483",
+        "android_client_info": {
+          "package_name": "com.tuktuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036083422906-51bg8im2fhp2tjjkhif1uplqt7n40u6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tuktuk",
+            "certificate_hash": "07d732de1dc7f74f2fdcd2e2bb1be1f23edf733b"
+          }
+        },
+        {
+          "client_id": "1036083422906-jia7466ggbu937afsmu6s95kh8grtfcs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCowkT3Rpxjl7CEzzw7lloI4xQjHWjVAIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036083422906-jia7466ggbu937afsmu6s95kh8grtfcs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
